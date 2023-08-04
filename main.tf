@@ -11,7 +11,7 @@ terraform {
 provider "google" {
   project = "curso-ccp-2023"
   region  = "us-central1"
-  //credentials = "./curso-ccp-2023-ffd8b389c06c.json"
+  credentials = "./curso-ccp-2023-ffd8b389c06c.json"
 }
 
 resource "google_compute_instance" "instance-1" {

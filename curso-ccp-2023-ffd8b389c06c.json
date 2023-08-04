@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "curso-ccp-2023",
+  "private_key_id": "ffd8b389c06c0cce9ddb9847a703a6faf18f2753",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTRewsP2tfRpuB\nNisUM+OpY70WrHZG6Hkzxmzmq1v0EcHYcoz3KcLOR4wXLvisZRUKt6wuiGQeecEE\nXmmS/0GNBYxG+7dsoJRBM6PkJv5n16obEks2Pv+QrbJKxYF5orVAN7tuthavTfgq\nWzb2Pjziz9+W2fzpdl7EhdxXWBo/ELm0FpVLJts4lYvmg9PTx++0O3L9exFtwUPn\nf3i+Y/o4eXUOEgBraAMTNl5A2YtFjKaP/5T8LBHhWNcAUpy55hhLlW12DiniFayp\nmhZFb96IU7+UFjGzLXMloxBu9pPlMLR5c8PgJWIVuVKzJ/wMb89TvbYf/6ljCqH8\nJO8ksVeTAgMBAAECggEAAiRk2yP/ejVUkVBTyn4mMkr9GVRBVMG5rOE3rHUTVxuw\n+/lZXY4yV/YYwQlsYw8ZUgT/vW8LmNWCNAGjD2cAKqZiQDwAJZ1RM4ILCN6uWK4y\nntimI5Qq8jQYqTJseCfCr7aA84PsIfXn7MIFAiUqZ+BUs4pdSp61Ikf7LnWJupbz\nmCLzJ+7imy4N34jSc5ZxGNHetID24w5AEyYH5o2jiIyUBZZKwKsl4OT75KLMuQGs\n8x3p5k3TBUUNYV66t1h+mxuTD+CO5unO7rwNwRJq6HpPY5lMhlPljV5mtcpYs9QO\n2eNMSFpeLqTAmNHmn+7Bu6YN6HOQjKjZR19LCGxx7QKBgQD7QbHVL8wfQ6OJLBv6\nzN4DoPvqqqoY44xxWDkm6A8YkjDhtBx1cJ+RneXXw9nvNG46Ea1Y9hnY8pNxk0JR\nQm/zTAWffHQKX5nFMk9yVv/IF6Zw65YLSyh/+zgUrCZUlA6Dw7EExWdTU5AXjGNZ\nQUNCrD+14nEVhoLmkf82O/3E9wKBgQDXQv2VMkLVW77xvi7V+tHF1Z7fcGpX4cxe\ncfRvRs9bs7ltVyQ4W7ZRd0s2seV3iuXPAVwNUwkLPn19JiKPoJovKwaW5xBJtK2p\nOzKRAXEO99D+j5RUAokjOE4PJHP7cfjmL0AUkn9wzPksrTjPjAnQHBzlRUXDvSvf\niw8HaruHRQKBgQDCuh+BAhJJCLrtzOnCbpSCa3nSXYKG15Q5JA7nQGKywFpyEo0b\n17VTvfQsTPXSlef3yUt37wQJR7dOBrsXD06EWR7ihCnLAFzEoEFCdHq4MNwmF++p\nwQ4aYjEMlH8Afd7h8AB5miSCR/kcxwkYW6QtQCIAbQcHj8BTwkLxXX1H8QKBgHLF\nFur7N0MGfZHqcpJH/pxaPzCmgSyGCS651zeVK22bL1wqv/cEfvqEfieVReEsv0ZV\nVT0Nbp7+HG4jbP3jBRHtAMBoRfjmSkkWdOl3OU5ftqBi8RSxnWiX1pagOu5vX+Nq\ngeH2EdiUkK3PVaDi60B4HLfo7T9llwTC4ap0r7N5AoGAAos0pQy2/IlTnsoOGLpB\n1QxgbzLbR8pylw/BXIPsjxm5R6GtDQLOAhqFYJkKbZhe2L/dqK2anIOQEFZOBAKw\nOS+UmR9gCG43s4noHugyerrfOJD5zf5hSlzJNvqqf2zFZLxDvlfpPTrGMRfPsGE0\nWDzg+ECyOisSipQ0jC3u+SE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "carloseigancio@curso-ccp-2023.iam.gserviceaccount.com",
+  "client_id": "118045191549442337878",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carloseigancio%40curso-ccp-2023.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

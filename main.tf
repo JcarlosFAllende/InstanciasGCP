@@ -1,3 +1,18 @@
+# Define el proveedor GCP
+terraform {
+  required_providers {
+    google = {
+      source = "hashicorp/google"
+      version = "4.73.1"
+    }
+  }
+}
+
+provider "google" {
+  project = "infrastructure-fr587"
+  region  = "us-central1"
+  //credentials = "./curso-ccp-2023-ffd8b389c06c.json"
+}
 resource "google_compute_instance" "instance-1" {
   boot_disk {
     auto_delete = true
